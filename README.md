@@ -3,4 +3,4 @@
 How to install ? 
 
 $ pip install colorama 
-$ python cekrek.py
+<br> $ python cekrek.py
